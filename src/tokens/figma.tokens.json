@@ -1738,7 +1738,7 @@
         }
       },
       "background": {
-        "value": "{color.primary.lighter}",
+        "value": "{color.primary.default}",
         "type": "color"
       },
       "spacing": {
